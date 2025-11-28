@@ -33,6 +33,11 @@ This project will map the key obstacles (money, documents, language, etc.) and t
    - MIT initiative that designs connected-learning pathways and certificate programmes for refugees and displaced learners.  
    - Example of an NGO/university-led program that uses online and blended learning to expand access to higher education and skills.
 
+- [**Jusoor Scholarship Program**](https://www.jusoor.ngo/scholarship-program)  
+   -  NGO that provides scholarships for Syrian and Palestinian-Syrian youth to study at universities around the world, helping them complete degrees and become future leaders.
+
+-  [**Refugee Academic Futures Scholarships**](https://www.displacedstudent.org.uk/opportunities/refugee-academic-futures-scholarships-2/)  
+   -  Scholarships at the University of Oxford that fund graduate study for students who are refugees or have lived experience of displacement, covering fees and living costs.
 ---
 
 ## 4. Technical Approach
