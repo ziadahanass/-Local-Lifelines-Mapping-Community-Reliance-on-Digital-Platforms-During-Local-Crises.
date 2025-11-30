@@ -38,6 +38,19 @@ This project will map the key obstacles (money, documents, language, etc.) and t
 
 -  [**Refugee Academic Futures Scholarships**](https://www.displacedstudent.org.uk/opportunities/refugee-academic-futures-scholarships-2/)  
    -  Scholarships at the University of Oxford that fund graduate study for students who are refugees or have lived experience of displacement, covering fees and living costs.
+
+- [**Exploring Barriers to Higher Education in Protracted Refugee Situations – The Case of Burmese Refugees in Thailand**](https://scispace.com/pdf/exploring-barriers-to-higher-education-in-protracted-refugee-1882o48ijh.pdf)  
+  - Research paper analysing how young people in long-term refugee situations face structural and legal barriers to higher education.  
+  - Helps us understand how protracted displacement limits opportunities beyond secondary school.
+
+- [**Refugee Students in Spain: The Role of Universities as Sustainable Actors in Institutional Integration**](https://www.mdpi.com/2071-1050/10/6/2082)  
+  - Case study on how Spanish universities support refugee students through recognition of qualifications and targeted programmes.  
+  - Shows universities as key actors in integrating refugee youth into higher education.
+
+- [**No Country for Young Refugees: Barriers and Opportunities for Inclusive Refugee Education Practices**](https://journals.sagepub.com/doi/10.1177/10591478241243382)  
+  - Article discussing systemic barriers and promising practices for inclusive education for young refugees.  
+  - Connects policy decisions with concrete strategies that schools and universities can adopt.
+
 ---
 
 ## 4. Technical Approach
