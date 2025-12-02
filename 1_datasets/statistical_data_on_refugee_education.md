@@ -1,0 +1,107 @@
+# 🎓 Notes on Refugee Access to Higher Education
+
+This document gathers key statistics, research insights, and policy data
+relevant to our work on how refugee and displaced youth access higher education,
+the barriers they face, and the role of scholarships and support programmes.
+
+---
+
+## 🌍 Global Access & Participation
+
+- Globally, **only a small minority of refugees reach higher education**  
+  (around one in every fourteen refugee youth, compared to much higher rates for non-refugee youth).
+- UNHCR’s global strategy aims to **increase refugee participation in tertiary education to 15% by 2030**.
+- Most refugee learners who do access higher education do so through:
+  - public **national universities** in host countries  
+  - **scholarship programmes** (e.g., DAFI)  
+  - **connected learning** or blended online–offline programmes.
+
+---
+
+## 🚧 Key Barriers to Higher Education
+
+Across different host countries, the same types of barriers appear again and again:
+
+- **Financial barriers**
+  - Tuition fees, registration charges, and cost of living (housing, transport, books).  
+  - Refugee households often prioritise immediate income over long study periods.
+
+- **Legal and documentation barriers**
+  - No or insecure **residency status**.  
+  - Missing **school certificates** or university transcripts from the country of origin.  
+  - Complicated or unclear procedures for **recognising prior qualifications**.
+
+- **Language and academic preparation**
+  - Host-country universities may teach mainly in **English or French**, while refugees were educated in another language.  
+  - Gaps in secondary schooling due to conflict and displacement reduce readiness for university.
+
+- **Information and guidance gaps**
+  - Limited access to **career counselling** or clear information on admission routes and scholarships.  
+  - Many refugee youth simply do not know what opportunities exist or how to apply.
+
+- **Digital and infrastructure barriers**
+  - Weak or expensive internet access limits participation in connected and online learning.  
+  - Lack of devices (laptops, tablets) and safe study spaces.
+
+---
+
+## 🎓 Scholarships & Support Pathways
+
+- **DAFI Tertiary Scholarship Programme**
+  - Provides **tuition**, **living stipends**, and **mentoring** for refugee students in host-country universities.  
+  - Helps students not only enter higher education but also **persist and graduate**.
+
+- **International scholarship models (IOM study)**
+  - Compares:
+    - **In-country scholarships** (study in the country of asylum)  
+    - **Third-country scholarships** (relocation to another country)  
+    - **Online / blended** models.
+  - Highlights good practices such as:
+    - clear selection criteria  
+    - holistic support (living costs, language courses, psychosocial support)  
+    - strong partnerships with universities and NGOs.
+
+- Common design lessons:
+  - Scholarships work best when combined with **language support**, **academic bridging**, and **career guidance**.  
+  - Small, competitive schemes help individuals but do not yet meet the **scale of global need**.
+
+---
+
+## 🇱🇧 Case Study: Syrian Refugee Youth in Lebanon
+
+Research from the American University of Beirut (AUB) shows how global issues
+play out in a specific national context:
+
+**🇱🇧 Case Overview: Syrian Refugee Youth in Lebanon – Access to Higher Education**
+
+| Aspect                          | Summary (Based on AUB / IFI Lebanon Studies)                                                                 |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Overall Access                  | Only a small fraction of Syrian refugee youth are enrolled in Lebanese universities compared to their age group. Most who finish secondary school still do **not** reach higher education. |
+| Financial Barriers              | High tuition fees, registration costs, transport, books, and living expenses make university largely unaffordable without scholarships or external support. |
+| Legal & Documentation Barriers  | Many students lack valid residency, original certificates, or official transcripts from Syria. Complex and unclear **equivalence** procedures block or delay admissions. |
+| Language & Academic Preparedness| Lebanese higher education is often taught in **English or French**, while many Syrian students were educated mainly in Arabic, creating gaps in academic readiness. |
+| Information & Guidance          | Refugee students frequently have limited access to **career guidance**, admissions advice, or clear information about available scholarships and support programmes. |
+| Existing Supports               | A mix of local and international actors (universities, NGOs, donors, and schemes like DAFI) provide scholarships, language support, and some preparatory programmes. |
+| Remaining Gaps                  | Support is fragmented and small in scale. Many eligible students are not reached, and structural issues (residency, recognition of qualifications, long-term funding) remain unresolved. |
+
+---
+
+## 📚 Sources
+
+- UNHCR – Higher Education and Skills  
+  <https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills>
+
+- UNHCR – 15by30 Higher-Education Roadmap  
+  <https://www.unhcr.org/sites/default/files/2023-12/15by30-roadmap.pdf>
+
+- UNHCR / German Federal Foreign Office – DAFI Tertiary Scholarship Programme  
+  <https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0>
+
+- IOM – Feasibility Study on Higher-Education Scholarships for Refugees  
+  <https://www.iom.int/sites/g/files/tmzbdl486/files/documents/ERN%2Bfeasibility-study-Higher-Education-Scholarships-for-Refugees.pdf>
+
+- El-Ghali et al. (2019) – *Tertiary Education for Syrian Refugees in Lebanon* (AUB – IFI)  
+  <https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2018-2019/20190402_tertiary_education_syrian_refugees_lebanon.pdf>
+
+- El-Ghali (2019) – *Syrian Refugee Students in Lebanese Higher Education: Recognition of Qualifications and Beyond* (AUB – IFI)  
+  <https://www.aub.edu.lb/ifi/Documents/publications/research_reports/2019-2020/20190107_syrian_refugee_students_in_lebanese_higher_education.pdf>
