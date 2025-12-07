@@ -1,4 +1,4 @@
-# Access to Higher Education for Refugee Youth in Lebanon
+# Access to Higher Education for Refugee Youth 
 
 ## Project Overview
 
